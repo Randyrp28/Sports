@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="Muñequitos",Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids" tvg-logo="" group-title="Muñequitos",Natgeo Kids
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Muñequitos",Cartoon Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Muñequitos",Boomerang
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Muñequitos",Baby TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="" group-title="Deportes",FOX Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+
+#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="Deportes",FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+
+#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="Deportes",FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
