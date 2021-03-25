@@ -20,16 +20,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="Deportes",FS1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 
-#EXTINF:-1 tvg-id="" tvg-name="FS2" tvg-logo="" group-title="Deportes",FS2
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="Deportes",Fox Sports 3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
 
-#EXTINF:-1 tvg-id="" tvg-name="Univisión Sports" tvg-logo="" group-title="Deportes",Univisión Sports
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="" group-title="Deportes",TUDN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN1" tvg-logo="" group-title="Deportes",ESPN1
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Deportes",ESPN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="Deportes",ESPN2
@@ -50,13 +50,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="TDN Deportes" tvg-logo="" group-title="Deportes",TDN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Español " tvg-logo="" group-title="Deportes",Bein Sports Español
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="" group-title="Deportes",Bein Sports
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="" group-title="Deportes",Afizzionados
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery ID" tvg-logo="" group-title="Documentales",Investigation Discovery ID
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentales",Investigation Discovery
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo Mundo" tvg-logo="" group-title="Documentales",Natgeo Mundo
@@ -80,13 +80,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="Peliculas",TBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema" tvg-logo="" group-title="Peliculas",Azteca Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Azteca" tvg-logo="" group-title="Peliculas",Azteca Cinema
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 #EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="" group-title="Entretenimiento",TRU TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
 
-#EXTINF:-1 tvg-id="" tvg-name="Bitme" tvg-logo="" group-title="Entretenimiento",Bitme
+#EXTINF:-1 tvg-id="" tvg-name="bitMe" tvg-logo="" group-title="Entretenimiento",bitMe
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 
 #EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" group-title="Entretenimiento",Distrito Comedia
@@ -95,10 +95,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="Galavisión" tvg-logo="" group-title="Entretenimiento",Galavisión
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
-#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="" group-title="Entretenimiento",Unimas
+#EXTINF:-1 tvg-id="" tvg-name="Unimás" tvg-logo="" group-title="Entretenimiento",Unimás
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 
-#EXTINF:-1 tvg-id="" tvg-name="Nueve 9" tvg-logo="" group-title="Entretenimiento",Nueve 9
+#EXTINF:-1 tvg-id="" tvg-name="Nueve" tvg-logo="" group-title="Entretenimiento",Nueve
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="Entretenimiento",Caracol
@@ -119,13 +119,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="Antena3" tvg-logo="" group-title="Entretenimiento",Antena3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="" group-title="Entretenimiento",Estrella TV
+#EXTINF:-1 tvg-id="" tvg-name="EstrellaTV" tvg-logo="" group-title="Entretenimiento",EstrellaTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="Entretenimiento",Canal de las Estrellas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="Entretenimiento",MTV Live
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Entretenimiento",MTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
 
 #EXTINF:-1 tvg-id="" tvg-name="Imagen" tvg-logo="" group-title="Entretenimiento",Imagen
